@@ -24,7 +24,7 @@ We contribute to the tools 🔧 we rely on to build and run Arke, while also mai
 
 - [Arke](https://github.com/arkemishub/arke) - The core of Arke framework 
 - [Arke UI](https://github.com/arkemishub/ui) - Our ready to use UI based on TailwindCSS ✨
-- [Arke JS Client](https://github.com/primer/css) - An isomorphic Javascript client for simply Backend connection
+- [Arke JS Client](https://github.com/arkemishub/clientjs) - An isomorphic Javascript client for simply Backend connection
 
 Join on our [Discord](https://discord.com/invite/947C6JArtM) to collaborate with us  🙌.
 
