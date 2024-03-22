@@ -2,7 +2,7 @@
 
 We are building Arke, the unified low-code framework to shape next-gen application for unleash your creativity and vision. 
 
-![Unleash your creativity and vision](https://github.com/arkemishub/.github/assets/81776297/b1d96acf-d298-4b0a-85d5-bf3f0b8a4064)
+![arke_stack](https://github.com/arkemishub/.github/assets/81776297/f5e9b3c0-0ece-4699-a479-8cd55438c81b)
 
 What is the best way to optimize my work? Whatever your business, you will have asked yourself this question at least once.
 
